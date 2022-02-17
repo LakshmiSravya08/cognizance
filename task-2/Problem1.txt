@@ -1,0 +1,47 @@
+This program will check if a number is divisible by 3 without using the modulo operator
+
+Start
+
+DECLARE Integer digitsum ,r, divisor, rem
+
+DECLARE Real n
+       
+OUTPUT "Enter the number to check the divisiblity"
+         
+INPUT n
+        
+ASSIGN digitsum=0
+ 
+IF n>0
+     FALSE,
+            OUTPUT "not possible"
+    
+     TRUE ,
+           WHILE n!=0 
+                 DO , ASSIGN r=n%10
+                      ASSIGN digitsum=digitsum+r
+                      ASSIGN n=n/10
+                   ENDWHILE;
+                 END,
+                       OUTPUT "The sum of the digits is"
+                       OUTPUT  digitsum
+                       
+                       ASSIGN divisor=3
+               
+                         WHILE digitsum>=divisor
+                               DO 
+                                  ASSIGN digitsum=digitsum-divisor
+                                 ENDWHILE;
+                               END,
+                                   ASSIGN rem=digitsum
+                                         
+                                        IF rem==0
+                                             THEN OUTPUT "TRUE"
+                                          
+                                             ELSE OUTPUT "FALSE"
+END
+
+                                   
+                      
+        
+        
