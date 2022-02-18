@@ -1,0 +1,32 @@
+This program will allow the user to print the Nth number of the fibonacci series
+
+Start
+
+DECLARE Integer i,n,a,b,sum
+ 
+ASSIGN a=0 ,b=1 ,sum=0 
+
+OUTPUT "Input the number in the series to be printed"
+
+INPUT n
+
+ASSIGN i=2
+
+IF n==0    Then ,
+            OUTPUT "The number is"&a
+
+                  Else,
+             FOR (i=2 ; i<=n ; i++)
+               NEXT ,  
+                        ASSIGN sum = a+b
+                        ASSIGN a=b
+                        ASSIGN b=sum
+               DONE , 
+                        OUTPUT "The number is"&b
+ End
+
+                         
+                 
+           
+          
+
