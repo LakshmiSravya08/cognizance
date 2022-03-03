@@ -29,8 +29,10 @@ This landing page has been made to provide the customers a detailed overview of 
 *Add more headlines
 
 *Add an exit pop-up
-
 <hr>
 
-![IMAGE TASK3]("C:\Users\Sravy\OneDrive\Desktop\task6\LAKSHMISRAVYA21035.png")
+
+![LAKSHMISRAVYA21035](https://user-images.githubusercontent.com/99632838/156509383-ddc41543-9698-409a-9add-9044804ed508.png)
+
+
 
