@@ -33,3 +33,5 @@ This landing page has been made to provide the customers a detailed overview of 
 <hr>
 
 ![IMAGE TASK3](LAKSHMISRAVYA21035.png)
+"C:\Users\Sravy\OneDrive\Desktop\task6\LAKSHMISRAVYA21035.png"
+
