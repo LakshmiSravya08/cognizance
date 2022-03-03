@@ -41,8 +41,6 @@ This landing page has been made to provide the customers a detailed overview of 
 
 <hr>
 
-![IMAGE TASK3](LAKSHMISRAVYA21035.png)
-
 
 ![LAKSHMISRAVYA21035](https://user-images.githubusercontent.com/99632838/156551565-8c2f4542-ea1e-4291-8ec9-7e27cb38ab5e.png)
 
