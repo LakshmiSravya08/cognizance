@@ -1,6 +1,6 @@
 # Task 3
 
-## __INTRODUCTION__
+## __Introduction__
 
 The landing page of the website was created for Task3 for an e-commerce fashion and lifestyle website.
 
