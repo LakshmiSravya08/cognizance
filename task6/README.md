@@ -28,11 +28,21 @@ This landing page has been made to provide the customers a detailed overview of 
 
 * Add more headlines
 
-* Add an exit pop-up
+* Add an exit pop-up!
+* 
+* 
+
+
+![Screenshot (308)](https://user-images.githubusercontent.com/99632838/156582693-89bf4e93-f75a-4d42-84b0-791424c6bb8b.png)
+
+![Screenshot (309)](https://user-images.githubusercontent.com/99632838/156582657-b3ead7d7-8dc1-4b2b-bbbc-2a0f74d11e30.png)
+
+
 
 <hr>
 
 ![IMAGE TASK3](LAKSHMISRAVYA21035.png)
+
 
 ![LAKSHMISRAVYA21035](https://user-images.githubusercontent.com/99632838/156551565-8c2f4542-ea1e-4291-8ec9-7e27cb38ab5e.png)
 
