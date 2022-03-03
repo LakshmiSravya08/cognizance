@@ -31,7 +31,7 @@ This landing page has been made to provide the customers a detailed overview of 
 * Add an exit pop-up!
 * 
 * 
-
+### These are the screenshots
 
 ![Screenshot (308)](https://user-images.githubusercontent.com/99632838/156582693-89bf4e93-f75a-4d42-84b0-791424c6bb8b.png)
 
