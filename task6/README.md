@@ -33,7 +33,8 @@ This landing page has been made to provide the customers a detailed overview of 
 * 
 ### These are the screenshots
 
-![Screenshot (308)](https://user-images.githubusercontent.com/99632838/156582693-89bf4e93-f75a-4d42-84b0-791424c6bb8b.png)
+![Screenshot (307)](https://user-images.githubusercontent.com/99632838/156583090-bee65eb2-9316-4f90-93b1-cc55939486d1.png)
+
 
 ![Screenshot (309)](https://user-images.githubusercontent.com/99632838/156582657-b3ead7d7-8dc1-4b2b-bbbc-2a0f74d11e30.png)
 
