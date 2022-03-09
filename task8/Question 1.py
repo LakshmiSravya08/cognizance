@@ -6,8 +6,8 @@
 
 from numpy import *
 a=array([])
-b=int(input('Enter the fFirst Number:'))
-c=int(input('Enter the last number Number:'))
+b=int(input('Enter the First Number:'))
+c=int(input('Enter the last  Number:'))
 for p in range(b,c):
     a=append(a,p)
     for p in range(5):
